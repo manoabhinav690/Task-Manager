@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo List App in React.js and Tailwind CSS
 
 
@@ -33,3 +34,6 @@ This Todo List App is a web application built using React.js and styled with Tai
 ---
 
 
+=======
+# Task-Manager
+>>>>>>> 1a771c6cd7af222df74455f920b5b980057ea899
